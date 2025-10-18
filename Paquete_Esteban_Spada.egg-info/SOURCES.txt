@@ -1,0 +1,8 @@
+setup.py
+Paquete_Esteban_Spada.egg-info/PKG-INFO
+Paquete_Esteban_Spada.egg-info/SOURCES.txt
+Paquete_Esteban_Spada.egg-info/dependency_links.txt
+Paquete_Esteban_Spada.egg-info/top_level.txt
+entrega2/__init__.py
+entrega2/cliente.py
+entrega2/main.py
